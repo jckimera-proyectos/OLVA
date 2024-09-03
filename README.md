@@ -22,6 +22,7 @@ Haga clic en la imagen de arriba para ver el video en YouTube.
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/proyecto-cotizacion-olva.git
+   
+   git clone https://github.com/jckimera-proyectos/OLVA.git
 
 
